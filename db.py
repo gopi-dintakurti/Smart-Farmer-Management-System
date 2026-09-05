@@ -4,7 +4,7 @@ def get_connection():
     connection=connect(
         host="localhost",
         user="root",
-        password="Gopi@bindu",
+        password="***********",
         database="agriculture"
     )
     return connection
